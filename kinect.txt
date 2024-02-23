@@ -1,0 +1,5 @@
+info.DeviceInfo(2)
+depthVid = videoinput('kinect', 2, 'Depth_320x240');
+depthImage = getsnapshot(depthVid);
+depthImageGray = mat2gray(depthImage);
+imshow(depthImageGray, [0 1]);
