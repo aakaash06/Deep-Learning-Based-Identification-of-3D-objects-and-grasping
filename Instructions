@@ -1,0 +1,9 @@
+To implement this:
+Visit the GGCNN repository and implement the code to evaluate the pre trained model on Jacquard dataset. Run simulations to visualize the model.
+Replicate the Jacquard dataset by designing a white background.
+Kinect.txt has a general code to click pictures in Matlab using kinect camera. 
+Test the camera and start clicking pictures of custom data.
+Save the custom data and store it in the Jacquard format so that it is recognizable by the algorithm.
+Use the pixel coordinates obtained from the algorithm and convert it into real world coordinates.
+Connect the linux system to a window system by establishing a socket communication.
+Use the coordinates to grasp the object in simulation in Robot studio.
