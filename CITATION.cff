@@ -1,0 +1,7 @@
+@inproceedings{morrison2018closing,
+	title={{Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach}},
+	author={Morrison, Douglas and Corke, Peter and Leitner, J\"urgen},
+	booktitle={Proc.\ of Robotics: Science and Systems (RSS)},
+	year={2018}
+}
+A. Depierre, E. Dellandrea, and L. Chen, “Jacquard: A Large Scale Dataset for Robotic Grasp Detection” in IEEE International Conference on Intelligent Robots and Systems, 2018.
