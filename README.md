@@ -5,4 +5,4 @@ Key highlights of the project include:
 🔸 Utilizing the results from the DL algorithm to successfully grasp objects.
 🔸 Employing Robot Studio as a simulation tool to perform grasping.
 
-Please see the GGCNN repository for the Deep Learning code and setup.
+Please see the GGCNN repository for the Deep Learning code and setup. Use Jacquard dataset to get best results.
